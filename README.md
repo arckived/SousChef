@@ -1,4 +1,4 @@
-# 🥘 SousChef  — Intelligent Recipe Discovery & Cooking Copilot
+# 🥘 SousChef : Intelligent Recipe Discovery & Cooking Copilot
 
 **SousChef** is an end-to-end data analytics and machine learning project that turns recipe data and user interactions into personalized food recommendations, cuisine predictions, and evidence-backed cooking assistance. It combines exploratory data analysis, natural language processing, semantic search, hybrid ranking, and a four-tab **Streamlit dashboard**.
 
