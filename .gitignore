@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+.ipynb_checkpoints/
+.DS_Store
+artifacts/*
+!artifacts/.gitkeep
+*.zip
+.venv/
+.env
+.DS_Store
+__pycache__/
